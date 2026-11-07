@@ -1,0 +1,3 @@
+Con el plan de Maya, todos se ponen a pensar alguna historia para crear un rumor para Ash, aunque Rudy estaba muy en contra de la idea, Ash lo acepta y decide hacerlo pensando q el esta seguro ya q como era el nuevo era el mas facil con qn hacer un rumor.
+Rudy tenia mucho miedo de q todo lo q pueda decir se pueda convertir en un rumor entonces el intento no hablar mucho.
+Mientras se ponia el sol y todos estaban en la cueva, los chicos siguieron pensando un rumor para Ash Rudy se enoja y dice un rumor re tonto expresando lo tonto q ellos suenan: "Quiza puso mal la lavadora y su ropa quedo tenida de rosa" El rumor se hace realidad y la ropa de ash se vuelve rosa.

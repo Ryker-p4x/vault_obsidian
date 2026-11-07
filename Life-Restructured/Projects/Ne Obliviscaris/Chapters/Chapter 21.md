@@ -1,0 +1,1 @@
+Todos se despiertan y se juntan en la cueva. Alli Arnaud comprueba q el Olvido fue derrotado ya q al sacarse su guante, la mano le volvio. Tristemente, Ash como era un rumor desaparecio y Rudy se puso muy triste con el resto.

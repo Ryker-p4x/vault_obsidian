@@ -1,0 +1,3 @@
+Empieza con el despertador despertandolos. Luego parece como si todos se hubieran olvidado del dia pasado y todo lo q ocurrio. Nadie esta enfermo y todos estaban ahi. Hasta una chica q no habia venido el otro dia por que tenia millones de granos por una enfermedad vino perfectamente bien sin granos.
+
+Cuando Maya, Ash y Rudy intentan hablar con Charlotte y Arnaud sobre esto, ellos los ignoran y les dicen q vuelvan a su vida normal y Charlotte tiene un argument con Maya y maya simplemente le dice q recupere su vida normal.

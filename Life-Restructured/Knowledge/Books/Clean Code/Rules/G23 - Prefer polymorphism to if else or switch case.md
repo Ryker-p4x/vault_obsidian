@@ -1,0 +1,1 @@
+Reach for polymorphism before a switch. Every switch statement should be suspect.

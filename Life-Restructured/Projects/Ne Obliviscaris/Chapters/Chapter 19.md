@@ -1,0 +1,3 @@
+A Arnaud se le ocurre un plan ingenioso. Enganiar a la mismisima luna. Queria q la tormenta del olvido busque un rumor q no existia usando la paradoja del mentiroso que consistia en decir algo como "Esta frase es una mentira aunque la frase anterior es verdad." porque ahi no se sabe a quien creer o q podria ser verdad. Entonces si ellos crearan un rumor falso el mismo dia de la luna llena la luna no sabria a donde ir y buscaria a el rumor el cual no existiria ya q seria mentira. 
+
+Luego dicen Ne Obliviscaris (no olvidar) su lema para sentirse mejor cuando el sol se puse y la cueva quedo a oscuras.

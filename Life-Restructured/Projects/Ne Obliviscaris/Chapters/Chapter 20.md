@@ -1,0 +1,1 @@
+Ejecutan el plan, todos se ponen en diferentes esquinas de las islas y cada uno se pone a crear su propio rumor segun algo q ellos creyeran. Sorprendentemente, todos tenian la misma aspiracion o deseo. Luego Ash termina sacrificandose y dejandose absorber por el Olvido para q sus amigos puedan terminar sus rumores y asi ganar la batalla.

@@ -1,0 +1,2 @@
+It's a function who gets told what happened. And then that function handles it. The function is always gonna be void since it doesn't really have to return anything.
+To be able to tell it's an event, the function should be phrased as something that happened, in the past sense (failed). Example of a function event: void passwordFailedNTimes(int attempts)

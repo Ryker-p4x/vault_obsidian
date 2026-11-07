@@ -1,0 +1,6 @@
+Ash: El protagonista inicial, chico enigmatico q llega en bote despues de una gran tormenta a la Isla de Bran. Se descubre q al final era un rumor creado por Charlotte y Arnaud
+Rudy: El companiero de habitacion de Ash, chico gracioso, de gran corazon q esta enamorado de Maya, muy charlatan y suele decir las cosas sin pensar mucho antes de decirlas.
+Maya Falkenberg: Chica popular y lider del instituto que sufre el fenomeno llamado "El olvido" y es atrapada por La claridad en cap 3.
+Charlotte: Chica francesa, enigmatica, maya le tiene miedo pq siempre piensa q todo el tiempo la concentracion de Charlotte esta sobre ella y charlotte es poco sociable. Ella puede llorar mucho pero suele intentar contener esos sentimientos y mantenerse seria.
+Arnaud: Otro chico frances enigmatico q comparte la personalidad de Charlotte. Le importa los otros y hasta llega una vez donde sacrifica su mano para salvar a alguien del olvido.
+Adhara Phoenix: Chica q cuenta sobre el rumor de un chico llamado el Vengador Enmascarado vendiendo los examenes finales en el tercer piso en el cuarto de banio.

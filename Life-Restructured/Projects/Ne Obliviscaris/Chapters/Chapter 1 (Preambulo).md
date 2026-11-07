@@ -1,0 +1,1 @@
+hablan de una tipo q llega a la Isla de Bran, la cual nunca escucho en bote. Los relampagos terminan desplomando la barca y es llevado por la corriente en plena tormenta.

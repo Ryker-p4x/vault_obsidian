@@ -1,0 +1,1 @@
+It introduces the concept of clean code as something easy to modify and read and also talks about how the book's going to teach us by hard work and it's not going to be another *feel good* book unless you were to skip the case studies which is something the book recommends you DON'T do. Also talks about the teaching that if you were to improve 1% per day you'd be 37x better.

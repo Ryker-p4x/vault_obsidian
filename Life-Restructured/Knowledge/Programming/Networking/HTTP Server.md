@@ -1,0 +1,1 @@
+A piece of software that receives website requests, processes them and returns the web content or a 404 error.

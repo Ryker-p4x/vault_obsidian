@@ -1,0 +1,1 @@
+Charlotte usa su tarot y le muestra la carta de Mort. Esta es la carta de la muerte q ella revela q significa q el olvido se comera a el cole entero la siguiente luna llena ya q obtuvo mas poder pq como Ash es un rumor y se creo un rumor de un rumor, cuando el Olvido intento comerselo, ocurrio una sobrecarga electrica.

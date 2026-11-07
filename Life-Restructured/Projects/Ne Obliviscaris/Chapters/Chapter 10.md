@@ -1,0 +1,3 @@
+Rudy se preocupa por Ash y cuestiona pq la luna lo poseyo de esa manera la Luna.
+Maya siente nuevas motivaciones para vencer al Olvido y resolver todo esto entonces acude ayuda a Charlotte
+Charlotte al principio no le ayuda pero luego de varios argumentos ella se pone a llorar y luego de llorar habla sobre como perdio su hermana gracias al Olvido. Maya la convence de q puede ser q la hermana siga en el colegio segun la logica del [[Chapter 9]] y entonces Charlotte decide ayudar a Maya.

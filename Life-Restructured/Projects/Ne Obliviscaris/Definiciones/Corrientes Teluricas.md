@@ -1,0 +1,1 @@
+Son un tipo de energia bajo la tierra terrestre q depende en los cambios de los campos magneticos de la tierra. Fluyen por la superficie de la corteza terrestre y los oceanos.

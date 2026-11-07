@@ -1,0 +1,2 @@
+La Isla de Bran: La isla donde ocurre todo, es donde Ash es llevado por la corriente en la introduccion.
+Colegio Dumas: Donde viven los protagonistas del libro, es un instituto exclusivo y aislado de chicos y chicas. Basicamente todo ocurre aca hasta ahora.

@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "hsl(258, 88%, 66%)",
+      "url": "https://calendar.google.com/calendar/ical/adrileogonzalezm%40gmail.com/private-ca9bea879cd298540dff3a2044249f13/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

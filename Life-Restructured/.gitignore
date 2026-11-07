@@ -1,0 +1,6 @@
+# Obsidian workspace / cache (per-machine, no need to sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store

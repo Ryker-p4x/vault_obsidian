@@ -1,0 +1,1 @@
+You can comment out sections of code to see if they're the ones creating the issue. This can help greatly in not having to read as much code.

@@ -1,0 +1,1 @@
+These are arguments for functions that are boolean values for example: render(true) the true would be a flag argument. These are considered horrible practice in the [[Clean Code]] book.

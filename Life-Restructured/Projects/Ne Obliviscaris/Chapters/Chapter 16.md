@@ -1,0 +1,1 @@
+Arnaud y Charlotte revelan q Ash todo este tiempo fue un rumor invocado por ellos mismos. No dicen pq lo hicieron pero se sabe q lo hicieron.

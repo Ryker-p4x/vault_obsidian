@@ -1,0 +1,1 @@
+The length of a name should match the size of its scope. Short names like i, j are fine in a loop that's a few lines long. Names that are used in many places should have longer, more precise names.

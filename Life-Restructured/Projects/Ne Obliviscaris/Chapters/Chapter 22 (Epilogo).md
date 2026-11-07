@@ -1,0 +1,1 @@
+Ash parece repetir la misma escena del preambulo donde esta un bote con alguien desconocido llevandolo y se dirigen a la Isla de Bran, parece haber olvidado todo pero al ver la gorra de Rudy el recuerda todo y recuerda a sus amigos.

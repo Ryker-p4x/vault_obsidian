@@ -1,0 +1,122 @@
+{
+  "shellPath": "",
+  "shellPathWin": "",
+  "shellPathMac": "",
+  "shellPathLinux": "",
+  "startupCommand": "/home/adrii/scripts/sync-tasks.sh",
+  "fontSize": 14,
+  "fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "lineHeight": 1,
+  "theme": "auto",
+  "backgroundColor": "",
+  "cursorBlink": true,
+  "cursorStyle": "block",
+  "copyOnSelect": false,
+  "scrollback": 5000,
+  "ribbonIcon": "terminal",
+  "defaultLocation": "bottom",
+  "notifyOnCompletion": false,
+  "notificationSound": "beep",
+  "notificationVolume": 50,
+  "searchShortcut": "Ctrl+Alt+F",
+  "persistBuffer": true,
+  "recentSessionsMax": 10,
+  "recentSessions": [
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/home/adrii/Documents/Vaults/Life",
+      "bufferSerial": "\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m /home/adrii/scripts/sync-tasks.sh\r\n\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m \u001b[?2004h",
+      "closedAt": 1788714507487
+    },
+    {
+      "name": "Terminal 2",
+      "color": "",
+      "cwd": "/home/adrii/Documents/Vaults/Life",
+      "bufferSerial": "\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m \u001b[?2004h",
+      "closedAt": 1788714374562
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/home/adrii/Documents/Vaults/Life",
+      "bufferSerial": "\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m /home/adrii/scripts/sync-tasks.sh\r\n\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m \r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m OPEN TERMINAL NOWWWWWWWWWWWWWWWWW\u001b[?2004h",
+      "closedAt": 1788714257165
+    },
+    {
+      "name": "Terminal 3",
+      "color": "",
+      "cwd": "/home/adrii/Documents/Vaults/Life",
+      "bufferSerial": "\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m /home/adrii/scripts/sync-tasks.sh\r\n\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m \u001b[?2004h",
+      "closedAt": 1788711318164
+    },
+    {
+      "name": "Terminal 3",
+      "color": "",
+      "cwd": "/home/adrii/Documents/Vaults/Life",
+      "bufferSerial": "\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m pwd\r\n/home/adrii/Documents/Vaults/Life\r\n\r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m \r\n\u001b[36;1m…/Vaults/Life\u001b[0m \u001b[36;1m❯\u001b[0m \u001b[?2004h",
+      "closedAt": 1788711305524
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "/home/adrii/Documents/Vaults/Life",
+      "bufferSerial": "\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\r\n\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[43D",
+      "closedAt": 1788710975173
+    }
+  ],
+  "enableClaudeIntegration": false,
+  "claudeSessionsDir": "",
+  "claudeRegistryPath": "claude-sessions.md",
+  "claudeSessionsMax": 25,
+  "tabColorTintsBackground": true,
+  "tabColors": [
+    {
+      "name": "None",
+      "value": "",
+      "tintStrength": 0,
+      "builtin": true
+    },
+    {
+      "name": "Vermilion",
+      "value": "#FC3634",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Sky Blue",
+      "value": "#25D0F7",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Gold",
+      "value": "#FFD700",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Mint",
+      "value": "#18BC9C",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Azure",
+      "value": "#007BFF",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Purple",
+      "value": "#A991D4",
+      "tintStrength": 12,
+      "builtin": true
+    }
+  ],
+  "tabBarPosition": "top",
+  "wikiLinkAutocomplete": false,
+  "wikiLinkInsertMode": "wikilink",
+  "clickableFilePaths": true,
+  "readlineShortcuts": true
+}

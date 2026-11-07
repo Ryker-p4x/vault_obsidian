@@ -1,0 +1,1 @@
+It's a program that lets you modify how a program executes and examine the program state while the program's running.

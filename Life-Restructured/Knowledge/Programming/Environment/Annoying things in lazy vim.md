@@ -1,0 +1,2 @@
+- Doesn't instantly move you to the expected line whenever you go down if the spaces aren't pre-setup.
+- No current file tracker for lazy vim

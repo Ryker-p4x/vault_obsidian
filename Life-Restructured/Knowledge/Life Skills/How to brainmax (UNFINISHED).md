@@ -1,0 +1,3 @@
+- Leave time for your brain to rest bored. (really smart dude would only do cognitive effort for 5 hours, tho newton spent entire days just doing what he loved so it's a bit contradicting)
+- Get obsessed with what you're doing
+- 
